@@ -9,7 +9,7 @@ This is repository with examples of simple UI components. The repository is base
 * Clone the repo with
 
 ```
-git clone git@github.com:ThePeaces/Peace-UI
+git clone git@github.com:ThePeaces/UI
 ```
 ## For HTML/CSS/JS
 
